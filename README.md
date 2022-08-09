@@ -4,12 +4,11 @@
 
 ## Description
 
-The propject was only meant to be for fun and learning purposes.
-The main goal of the project is to gain a better understadning of
-UNreal Engine 5. In this project I learned about C++ syntax and
-structure as well as C++ classes. Furthermore, I learned about
-creating member variables and functions such as UPROPERTY, 
-UE_LOG(), FString, FVector, and FRotator.
+The project was only meant to be for fun and academic purposes.
+The purose of this project is to demostrate an understanding of 
+C++ and structure; as well as demonstrating the us of member 
+variables and functions such as UPROPERTY, UE_LOG(), FString,
+FVector, and FRotator.
 
 ## Getting Started
 
